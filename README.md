@@ -1,5 +1,8 @@
 # promise-example
 
+Check browser console and `main.ts`; console log shows that Promise prototypes
+for async functions and for Promises are different.
+
 ## Project setup
 ```
 npm install
